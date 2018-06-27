@@ -24,9 +24,9 @@ The following tables are what the data sets look like:
 
 >**trip_id:** unique id of trip
 
-**duration_sec:** duration of trip (in seconds)
+>**duration_sec:** duration of trip (in seconds)
 
-**start_date:** time trip started (in PST)
+>**start_date:** time trip started (in PST)
 
 **start_station_name:** name of station where trip started
 
