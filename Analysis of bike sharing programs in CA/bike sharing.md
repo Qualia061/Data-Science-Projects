@@ -66,4 +66,12 @@ station_id|	name|	latitude|	longitude|	dockcount|	landmark|	installation_date|
 ## Analysis
 
 
+![sf map](https://github.com/Qualia061/Data-Science-Projects/blob/master/Analysis%20of%20bike%20sharing%20programs%20in%20CA/sf%20map.png)
+
+The information about the locations of the Bay Area bike share stations in San Francisco can be obtained from the latitude and longitude columns in the data sets. The size of the grey circle on the map implies the number of trips started from that bike station. From the map, I noticed that there are many bike stations near the bart stations in San Francisco. The number of trips started from these bike stations is usually larger. One possible reason is that people who get off the bart prefer to ride bikes rather than to walk or drive cars. The parking space in San Francisco is very limited and usually not cheap. They probably work at San Francisco and use these public transports every day. There are also some bike stations along the seaside. Tourists can ride bikes and enjoy the beauty of the beach. The number of trips is the largest at San Francisco Caltrain station. It is probably because of the large number of travelers at that station.
+
+
+From the map, I noticed that there are many bike stations near Pershing Square, Union Station, museums and parks. Also, the number of trips is significantly higher near these areas. One of the possible reasons is that there are many scenic spots in that area and it is more convenient for tourists to move from one spot to the other by riding bikes. There are also many offices near Pershing Square. People who work at these offices may choose to ride bikes, since the parking space is limited and traffic flow is slow.
+
+
 
