@@ -103,8 +103,9 @@ The trip distance is higher in the morning and afternoon, but lower at noon and 
 The trip duration in the morning is significantly lower than that of the other time. In the morning, most users are workers and they do not want to be late for work. At other three time period, most users are tourists and they have plenty of time to ride bikes and discover the city. Thus, the trip durations are higher than that of in the morning.
 
 
-By comapring the plots, we can conclude that the main user of the bike stations in Bay Area is worker who prefer to ride a bike to their offices and the main user in LA is tourist who rides a bike for relaxing. The trip duration in LA is higher than that in Bay Area most of the time, but the trip distance in Bay Area is longer, which implies the riders in LA are not rushing for time. The frequency is much higher in Bay Area since the data set contains the data from earlier years.
+By comparing the plots, we can conclude that the main user of the bike stations in Bay Area is worker who prefer to ride a bike to their offices and the main user in LA is tourist who rides a bike for relaxing. The trip duration in LA is higher than that in Bay Area most of the time, but the trip distance in Bay Area is longer, which implies the riders in LA are not rushing for time. The frequency is much higher in Bay Area since the data set contains the data from earlier years.
 
+### Traffic Patterns
 ![direc](https://github.com/Qualia061/Data-Science-Projects/blob/master/Analysis%20of%20bike%20sharing%20programs%20in%20CA/direction.png)
 
 I plotted four histograms in polar coordinates corresponding to the frequency of the bearing in San Francisco. From the plots, we notice that in the morning, most people are traveling to the north and some are traveling to the south. At noon, people travel to the north-east, the north west and the south-west. In the afternoon, most people travel to the south. The pattern at night is similar to the pattern at noon.
