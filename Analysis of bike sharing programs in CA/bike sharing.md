@@ -1,4 +1,4 @@
-# Visual Analysis of Bike Sharing Programs in CA
+# Visual Analysis of Bike Sharing Programs in Bay Area and LA
 
 ## Description
 Bike sharing programs have become popular in big cities over the last decade. In the most common arrangement, customers can rent a bike from an automated "dock" and return it later to any other dock in the city.The rental fee is based on how long they used the bike.
