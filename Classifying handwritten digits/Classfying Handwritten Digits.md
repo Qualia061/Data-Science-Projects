@@ -15,9 +15,9 @@ The data set is split into a training set and a test set. Both have the same for
 
 Display graphically what each digit (0 through 9) looks like on average:
 
-![main](https://github.com/Qualia061/Data-Science-Projects/blob/master/Classifying%20handwritten%20digits/main.png)
+![main](https://github.com/Qualia061/Data-Science-Projects/blob/master/Classifying%20handwritten%20digits/pics/main.png)
 
-![var](https://github.com/Qualia061/Data-Science-Projects/blob/master/Classifying%20handwritten%20digits/var.png)
+![var](https://github.com/Qualia061/Data-Science-Projects/blob/master/Classifying%20handwritten%20digits/pics/var.png)
 
 By calculating the variations for the 256 entries for all 0 to 9 digits, we find the largest variation
 is at V231 which equals to 0.8198434, and the above result shows some pixels with lowest and
@@ -51,9 +51,9 @@ condition checking was done outside the loop. (for>apply()>ifelse()outside the l
 helps increase the efficiency.
 
 
-![cv](https://github.com/Qualia061/Data-Science-Projects/blob/master/Classifying%20handwritten%20digits/cv.png)
+![cv](https://github.com/Qualia061/Data-Science-Projects/blob/master/Classifying%20handwritten%20digits/pics/cv.png)
 
-![cvg](https://github.com/Qualia061/Data-Science-Projects/blob/master/Classifying%20handwritten%20digits/cvg.png)
+![cvg](https://github.com/Qualia061/Data-Science-Projects/blob/master/Classifying%20handwritten%20digits/pics/cvg.png)
 
 By displaying the 10-folds cv errors rates, we find that k=1 has the smallest error rates which
 equals to 0.02921472, and the top 3 smallest error rates are 1(0.02921472)<3(0.03085818)<4
@@ -68,7 +68,7 @@ additional value of k may lead to a higher error rate. Thus, it is not necessary
 additional value of k for this time. The euclidean method returns for smaller error rate
 values.
 
-![mis](https://github.com/Qualia061/Data-Science-Projects/blob/master/Classifying%20handwritten%20digits/mis.png)
+![mis](https://github.com/Qualia061/Data-Science-Projects/blob/master/Classifying%20handwritten%20digits/pics/mis.png)
 
 From the above results, we find that digits 2, 4, 5 and 8 have the highest misclassifications
 during cross validation. Digit 2 is easily to be mixed with 7 and 0; digit 4 often mixes with 9 and
@@ -78,13 +78,13 @@ obscure while comparing to digits 0, 1 and 7 that have less misclassifications. 
 sense in reality. When people writing digits 2, 4, 5 and 8, they usually have different preference
 of writing them, for example: they may write digits with most misclassifications as follow:
 
-![num](https://github.com/Qualia061/Data-Science-Projects/blob/master/Classifying%20handwritten%20digits/num.png)
+![num](https://github.com/Qualia061/Data-Science-Projects/blob/master/Classifying%20handwritten%20digits/pics/num.png)
 
 That leads the digits become various and causes misclassifications during the cross-validation.
 
-![se](https://github.com/Qualia061/Data-Science-Projects/blob/master/Classifying%20handwritten%20digits/se.png)
+![se](https://github.com/Qualia061/Data-Science-Projects/blob/master/Classifying%20handwritten%20digits/pics/se.png)
 
-![see](https://github.com/Qualia061/Data-Science-Projects/blob/master/Classifying%20handwritten%20digits/see.png)
+![see](https://github.com/Qualia061/Data-Science-Projects/blob/master/Classifying%20handwritten%20digits/pics/see.png)
 
 From the above graph, there’s an increase trend of error rates accompany with small fluctuation
 along curves in the graph using both Euclidean and Manhattan methods in our metric spaces. By
