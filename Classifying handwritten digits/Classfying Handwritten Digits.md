@@ -101,3 +101,4 @@ d oing k-fold cross validation efficiently in R requires a vague understanding o
 but data structures are generally much more complex and requires deeper understandings. It's 
 like people using the Internet for the first time. It's really not hard, it just takes an extra half hour
 to figure out. The “brand new” makes it confusing.
+ 
