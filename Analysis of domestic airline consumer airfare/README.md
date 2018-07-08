@@ -15,7 +15,8 @@ from the U.S. Department of Transportation.
 • **cpi_1996_2017.xls**: A consumer price index (CPI) dataset for transportation, in Microsoft Excel
 format. From the U.S. Bureau of Labor Statistics.
 
-##Data
+## Data
+
 Here is the first row of **airfare.csv**:
 
 |year|	quarter	|city1|	city2|	fare|	miles|	passengers|	airport1|	airport2|	lg_fare|	lg_carrier|	lg_marketshare|	low_fare|	low_carrier|	low_marketshare|	city_id1|	city_id2|	airport_id1|	airport_id2|	table|
