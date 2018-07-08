@@ -3,7 +3,7 @@
 ## Description
 The game Monopoly is played on a board with 40 squares, set up as shown below.
 
-![main](https://github.com/Qualia061/Data-Science-Projects/blob/master/Project%20Euler%2084/main.png)
+![main](https://github.com/Qualia061/Data-Science-Projects/blob/master/Project%20Euler%2084/pics/main.png)
 
 Players begin the game on the GO square. On each turn, the player rolls two 6-sided dice. The sum of the dice determines the number of squares they advance (in a clockwise direction) on that turn.
 
@@ -51,7 +51,7 @@ The goal is to estimate the long-term probabilities of landing on each square. T
 
 The word “long-term” means when the n goes to infinity. Since I have to choose a finite value of n, I set n=100000 and the position of the square GO is 0. The three most likely squares to end a turn with 6 sided dice are Jail (Position 10, 5.86%), E3(Position 24, 3.20%) and GO (Position 0, 3.17%). The three most likely squares to end a turn with 4 sided dice are Jail (Position 10, 6.41%), RR2 (Position 15, 3.53%), E3(Position 24, 3.29%).
 
-![prob](https://github.com/Qualia061/Data-Science-Projects/blob/master/Project%20Euler%2084/prob.png)
+![prob](https://github.com/Qualia061/Data-Science-Projects/blob/master/Project%20Euler%2084/pics/prob.png)
 
 By comparing the plots, I found that the trends are almost identical for different number of sides. The GO square and the JAIL square are the most popular squares. Position 30 is the G2J square. Since the player has to immediately move to JAIL, so the probability of ending on G2J is 0.
 
@@ -67,7 +67,7 @@ The time duration of the bootstrap method is about 11.41 seconds. The time durat
 
 I used the simulation estimate to calculate the stand errors of the long-term probabilities for 3,4,5,and 6 sided dice, with n=10000 turns and k=1000 simulations. 
 
-![se](https://github.com/Qualia061/Data-Science-Projects/blob/master/Project%20Euler%2084/se.png)
+![se](https://github.com/Qualia061/Data-Science-Projects/blob/master/Project%20Euler%2084/pics/se.png)
 
 From the plots above, we notice that the standard errors of the position 10, the Jail square, are always the largest one. This is reasonable since the player may pick the “GO to JAIL” cards multiple times in one game, but it is also possible that he does not pick the card and does not go to Jail even once. Therefore, the variation may be larger, which results in the large standard error.
 
@@ -75,6 +75,6 @@ As n increases, the standard errors for the long-term probability estimates decr
 
 To verify my explanations, I calculated the standard errors of ending a turn on the square Jail with different n values and plotted a bar plot, as shown below.
 
-![see](https://github.com/Qualia061/Data-Science-Projects/blob/master/Project%20Euler%2084/see.png)
+![see](https://github.com/Qualia061/Data-Science-Projects/blob/master/Project%20Euler%2084/pics/see.png)
 
 We can see that the standard error decreases as the n value increases, which is what I expected and it is true for all squares. 
