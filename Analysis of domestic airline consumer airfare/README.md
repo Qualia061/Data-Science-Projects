@@ -66,7 +66,7 @@ Here is the first row of **airfare.csv**:
 
 Here is the first row of **cpi_1996_2017.xls**:
 Year|	Jan	|Feb|	Mar|	Apr|	May|	Jun|	Jul|	Aug|	Sep|	Oct|	Nov|	Dec|	HALF1|	HALF2
---- | --- | ---| ---| ---| ---| ---| ---| ---| ---| ---
+--- | --- | ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---
 1996	|139.9|	140.4|	141.2|	143.1|	144.4|	144.0|	143.5|	142.8|	143.2|	143.9	|144.8|	145.2|	142.2|	143.9|
 
 ## Analysis
