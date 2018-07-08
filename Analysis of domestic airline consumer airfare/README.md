@@ -83,7 +83,7 @@ In 2017, Atlanta, GA has the most connections (157 connections) to other cities.
 ![3b](https://github.com/Qualia061/Data-Science-Projects/blob/master/Analysis%20of%20domestic%20airline%20consumer%20airfare/pics/3b.png)
 ![3c](https://github.com/Qualia061/Data-Science-Projects/blob/master/Analysis%20of%20domestic%20airline%20consumer%20airfare/pics/3c.png)
 
-We notice that they all have the connection equal to 1.
+We can see that they all have the connection equal to 1.
 Since the data in 2017 only contains the data for the first quarter, when we compare with other years, we only compare with the data of the first quarter.
 
 
