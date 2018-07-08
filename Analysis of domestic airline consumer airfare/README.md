@@ -20,7 +20,7 @@ format. From the U.S. Bureau of Labor Statistics.
 Here is the first row of **airfare.csv**:
 
 |year|	quarter	|city1|	city2|	fare|	miles|	passengers|	airport1|	airport2|	lg_fare|	lg_carrier|	lg_marketshare|	low_fare|	low_carrier|	low_marketshare|	city_id1|	city_id2|	airport_id1|	airport_id2|	table|
---- | --- | ---| ---| ---| ---| ---| ---| ---| ---| ---
+--- | --- | ---| ---| ---| ---| ---| ---| ---| ---| ---|--- | --- | ---| ---| ---| ---| ---| ---| ---| ---| ---
 1996|	1|	Allentown/Bethlehem/Easton, PA|	Orlando, FL	|198.6784846|	906	|234.9450549|	ABE|	MCO|	257.2974916|	FL|	0.55940131|	124.1705696|	US|	0.295603368|	30135|	31454|	10135|	13204|	1a|
 
 
