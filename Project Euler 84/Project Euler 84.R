@@ -242,7 +242,7 @@ barplot(my_se_n,main="The Standard Errors For the Long-term Probability Estimate
 
 
 
-
+ 
 
 
 
