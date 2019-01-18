@@ -1,9 +1,4 @@
-# Data-Science-Projects 
-  
-  
-     
- 
-    
+Download the Apple products offered by amazon.com.
     
       
         
