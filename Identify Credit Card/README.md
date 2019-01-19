@@ -1,0 +1,19 @@
+Read the numbers shown on a credit card
+
+     
+ 
+    
+    
+      
+        
+         
+       
+    
+    
+      
+  
+  
+ 
+ 
+ 
+ 
