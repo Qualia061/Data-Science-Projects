@@ -1,4 +1,4 @@
-Read the numbers shown on a credit card
+Read the numbers shown on a credit card (.png file)
 
      
  
