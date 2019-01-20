@@ -1,5 +1,4 @@
-# Data-Science-Projects 
-  
+Extract the hurricane information from the website http://weather.unisys.com and plot the hurricane paths of year '2017'
   
      
  
