@@ -1,6 +1,6 @@
 ## Web Scraping 
   
-Application of Beasutifulsoup, Selenium, etc.
+Application of Beautifulsoup, Selenium, etc.
      
  
     
