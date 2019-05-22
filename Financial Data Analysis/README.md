@@ -11,7 +11,7 @@
 
 
 
-     
+![main](https://github.com/Qualia061/Data-Science-Projects/blob/master/Financial%20Data%20Analysis/pics/STAT6013%20Project_final-02.jpg)
  
     
     
