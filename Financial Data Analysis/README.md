@@ -30,4 +30,4 @@
 ![main](https://github.com/Qualia061/Data-Science-Projects/blob/master/Financial%20Data%20Analysis/pics/STAT6013%20Project_final-18.jpg)
 ![main](https://github.com/Qualia061/Data-Science-Projects/blob/master/Financial%20Data%20Analysis/pics/STAT6013%20Project_final-19.jpg)
 ![main](https://github.com/Qualia061/Data-Science-Projects/blob/master/Financial%20Data%20Analysis/pics/STAT6013%20Project_final-20.jpg)
-![main](https://github.com/Qualia061/Data-Science-Projects/blob/master/Financial%20Data%20Analysis/pics/STAT6013%20Project_final-21.jpg)
+
