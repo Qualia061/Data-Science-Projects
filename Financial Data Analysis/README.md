@@ -4,7 +4,7 @@
 	- EWMA
 
 
-## ANALYSIS	
+## Analysis
 	- Vector Autoregression	
 	- Exponentially Weighted Moving Average	
 
