@@ -1,5 +1,5 @@
 ## Methology
-	- Markowitz¡¯s Mean-Variance Portfolio Optimization	
+	- Markowitz's Mean-Variance Portfolio Optimization	
 	- Vector Autoregression	
 	- EWMA
 
