@@ -65,3 +65,19 @@ Examples using the scikit-learn machine learning library (will be updated freque
 	X_train_std = stdsc.fit_transform(X_train)
 	X_test_std = stdsc.fit_transform(X_test)
 	```
+  - Regularization
+  
+  - Sequential Backward Selection
+  
+## Dimensionality Reduction
+    ```python
+	from sklearn.decomposition import PCA
+	pca = PCA(n_components=2)
+	X_train_pca = pca.fit_transform(X_train_std)
+	X_test_pca = pca.transform(X_test_std)
+	
+	from sklearn.discriminant_analysis import LinearDiscriminantAnalysis as LDA
+	lda = LDA(n_components=2)
+	X_train_lda = lda.fit_transform(X_train_std, y_train)
+	X_test_lda = lda.transform(X_test_std)
+	```
