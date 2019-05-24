@@ -51,3 +51,17 @@ Examples using the scikit-learn machine learning library (will be updated freque
 	print(y_train.shape)
 	print(y_test.shape)
 	```
+  - Feature Scaling:
+    ```python
+ 	#Normalization
+	from sklearn.preprocessing import MinMaxScaler
+	mms = MinMaxScaler()
+	X_train_norm = mms.fit_transform(X_train)
+	X_test_norm = mms.transform(X_test)
+	
+	#Standardization
+	from sklearn.preprocessing import StandardScaler
+	stdsc = StandardScaler()
+	X_train_std = stdsc.fit_transform(X_train)
+	X_test_std = stdsc.fit_transform(X_test)
+	```
