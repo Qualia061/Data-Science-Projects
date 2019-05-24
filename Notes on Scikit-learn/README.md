@@ -127,3 +127,12 @@ Examples using the scikit-learn machine learning library (will be updated freque
 	scores = cross_val_score(gs, X_train, y_train, scoring='accuracy', cv=5)
 	print('CV accuracy: %.3f +/- %.3f' % (np.mean(scores), np.std(scores)))
 	```
+  - ROC & AUC Graph
+  - Resampling:
+    ```python
+	from sklearn.utils import resample
+	print('Number of class 1 samples before:', X_imb[y_imb == 1].shape[0])
+	X_upsampled, y_upsampled = resample(X_imb[y_imb == 1], y_imb[y_imb == 1], replace=True,
+					    n_samples=X_imb[y_imb == 0].shape[0], random_state=123)
+	print('Number of class 1 samples after:', X_upsampled.shape[0])
+	```
