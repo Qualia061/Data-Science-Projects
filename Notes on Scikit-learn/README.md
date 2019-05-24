@@ -4,13 +4,13 @@ Examples using the scikit-learn machine learning library (will be updated freque
 
 ## Data Preprocessing
   - Identifying Missing Values:
-  
+    ```python
 	df.isnull.sum()
-	
+	```
   - Remove Missing Data:
-  
+    ```python
 	df.dropna(axis=0)
-	
+	```
   - Interpolation:
     ```python
 	from sklearn.impute import SimpleImputer
