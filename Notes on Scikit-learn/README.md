@@ -41,3 +41,13 @@ Examples using the scikit-learn machine learning library (will be updated freque
 	ohct.fit_transform(X)	
 	pd.get_dummies(df2[['price', 'color', 'size']])
 	```
+  - Training-Testing:
+    ```python
+	from sklearn.model_selection import train_test_split
+	X, y = df_wine.iloc[:, 1:].values, df_wine.iloc[:, 0].values
+	X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=0, stratify=y)
+	print(X_train.shape)
+	print(X_test.shape)
+	print(y_train.shape)
+	print(y_test.shape)
+	```
