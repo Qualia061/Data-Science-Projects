@@ -1,1 +1,1 @@
-# Kaggle
+# Notes for Kaggle
