@@ -45,7 +45,9 @@ pd,Series(y).hist(bins=30)
 
 1. Bagging
 
+2. Boosting
 
+3. Stacking (including stackNet)
 
 
 
