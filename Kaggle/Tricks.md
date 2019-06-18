@@ -34,3 +34,39 @@ pd,Series(y).hist(bins=30)
 1. Replace NaN with True/False
 
 2. In general, avoid filling NaN before feature generation
+
+
+## Visualization
+
+1. tSNE
+
+
+## Ensemble Methods
+
+1. Bagging
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
