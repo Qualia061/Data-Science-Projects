@@ -28,3 +28,9 @@ pd,Series(y).hist(bins=30)
 2. Centers of clusters
 
 3. Aggregated statistics
+
+# Fillna approaches
+
+1. Replace NaN with True/False
+
+2. In general, avoid filling NaN before feature generation
